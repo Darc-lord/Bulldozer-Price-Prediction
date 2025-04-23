@@ -25,6 +25,12 @@ Feature importances shows how much each column contributed to the final predicti
 ![Feature Importances](Feature_Importances.png)
 
 ### Installation
+1. **Anaconda**
+	```bash
+	 https://www.anaconda.com/download
+	```
+
+### Files
 1. **Clone The Repository**
 	```bash
 	https://github.com/Darc-lord/Bulldozer-Price-Prediction.git
