@@ -4,6 +4,7 @@ A machine Learning project aimed at predicting the future sale price of a buldoz
 ## Table of contents
 + Project Overview
 + Installation
++ Files
 
 
 ### Project Overview
