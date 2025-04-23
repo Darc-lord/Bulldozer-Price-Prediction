@@ -19,6 +19,7 @@ The steps taking in creating the model:
 - **Modelling**: This section involving applying machine learning models to our already clean datase. In this project Ensemble's Random Forest Regressor was evaluated and tuned on the dataset to see how well it could learn. On the evaluation metric it got an RMSLE score of `0.2452`.
 
 **Feature Importance**
+
 Feature importances shows how much each column contributed to the final prediction. The feature `YearMade` had the best feature importance score.
 
 ![Feature Importances](Feature_Importances.png)
